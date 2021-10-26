@@ -14,3 +14,8 @@
     height: 800px;
     background: url('../img/bg/main_bg.jpg') center center/cover no-repeat;
 }
+
+.logo .logo_img{
+    display: block;
+    margin: 0 auto;
+}
