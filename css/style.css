@@ -76,3 +76,11 @@ h2.title{
     font-family: "Roboto - Bold";
     font-weight: 700;
 }
+
+.promo .promo_btn {
+    width: 313px;
+    height: 72px;
+    box-shadow: inset 0 -5px 0 rgba(0,0,0,0.18);
+    border: 4px solid rgba(0,0,0,0.23);
+    background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
+}
