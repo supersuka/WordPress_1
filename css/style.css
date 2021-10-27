@@ -257,3 +257,12 @@ h2.title {
     display: block;
     margin: 0 auto;
 }
+.gift .gift_text {
+    margin-top: 42px;
+    color: #252525;
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 43px;
+    text-align: center;
+}
