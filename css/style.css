@@ -227,7 +227,7 @@ h2.title {
     width: 204px;
 }
 
-.finish .finish_wrapper .finish_round{
+.finish .finish_wrapper .finish_item .finish_round{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -235,4 +235,14 @@ h2.title {
     height: 115px;
     background-color: #b4e2ff;
     border-radius: 100%;
+}
+
+.finish .finish_wrapper .finish_item .finish_descr{
+    margin-top: 25px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 20px;
+    color: #efefef;
 }
