@@ -301,3 +301,10 @@ h2.title {
     text-transform: uppercase;
     text-align: center;
 }
+
+.first .first_subtitle{
+    margin-top: 25px;
+    color: #4a4a4a;
+    font-size: 23px;
+    font-weight: 400;
+    text-align: center;
