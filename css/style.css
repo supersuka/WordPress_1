@@ -217,3 +217,8 @@ h2.title {
     color:#ffffff
 }
 
+.finish .finish_wrapper {
+    margin-top: 41px;
+    display: flex;
+    justify-content: space-between;
+}
