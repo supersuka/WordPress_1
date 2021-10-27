@@ -253,3 +253,7 @@ h2.title {
     padding: 86px 0 87px 0;
     background-color: #efefef;
 }
+.gift .gift_img {
+    display: block;
+    margin: 0 auto;
+}
