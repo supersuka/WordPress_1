@@ -222,3 +222,17 @@ h2.title {
     display: flex;
     justify-content: space-between;
 }
+
+.finish .finish_wrapper .finish_item{
+    width: 204px;
+}
+
+.finish .finish_wrapper .finish_round{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 115px;
+    height: 115px;
+    background-color: #b4e2ff;
+    border-radius: 100%;
+}
