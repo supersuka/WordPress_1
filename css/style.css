@@ -77,7 +77,7 @@ h2.title {
     font-weight: 700;
 }
 
-.promo .promo_btn {
+.promo .promo_btn, .gift .gift_btn {
     display: block;
     margin: 73px auto;
     width: 313px;
@@ -266,3 +266,4 @@ h2.title {
     line-height: 43px;
     text-align: center;
 }
+
