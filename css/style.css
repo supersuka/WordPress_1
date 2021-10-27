@@ -247,3 +247,9 @@ h2.title {
     line-height: 20px;
     color: #efefef;
 }
+
+.gift {
+    min-height: 628px;
+    padding: 86px 0 87px 0;
+    background-color: #efefef;
+}
