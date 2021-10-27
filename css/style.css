@@ -282,3 +282,12 @@ h2.title {
     display: block;
     margin: 0 auto;
 }
+.first .first_text {
+    margin-top: 37px;
+    color: #252525;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
