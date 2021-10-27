@@ -115,9 +115,9 @@ h2.title{
 }
 
 .waiting{
-    height: 604px;
+    min-height: 604px;
     background-color: #efefef;
-    padding: 85px 0 75px 0ß;
+    padding: 85px 0 75px 0;
 }
 
 .waiting .waiting_header{
