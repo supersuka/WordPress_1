@@ -277,3 +277,8 @@ h2.title {
     min-height: 515px;
     padding: 89px 0 64px 0;
 }
+
+.first .first_img {
+    display: block;
+    margin: 0 auto;
+}
